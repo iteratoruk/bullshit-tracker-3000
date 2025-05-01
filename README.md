@@ -46,7 +46,7 @@ Feel free to:
 
 * Suggest more passive-aggressive UI copy. 
 * Add graphs, badges, or charts if you enjoy burying people in data. 
-* Introduce dark mode to match the deep sense of foreboding in your sole when someone says "Quick question ..."
+* Introduce dark mode to match the deep sense of foreboding in your soul when someone says "Quick question ..."
 
 ## License
 
